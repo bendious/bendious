@@ -1,0 +1,5 @@
+- @bendious is an independent software developer with a passion for procedural generation, deeply-simulated virtual worlds, and from-scratch programming.
+- An award-winning Computer Science alumnus of Tau Beta Pi's Indiana Gamma chapter at the University of Notre Dame, he has held a variety of technical positions with leading organizations such as Garmin and Volition.
+- His professional experience spans systems ownership in areas including rendering, tools, animation, and gameplay.
+- In an attempt to channel all his passions at once, he is currently creating his own custom video game engine.
+- With his spare time he enjoys being an amateur at anything within reach; some recent notables are mountain biking, 3D printing and CNC machining, piano, sketching, and writing.
